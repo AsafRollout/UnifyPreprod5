@@ -11,5 +11,6 @@ availableValues:
   - var2
   - var3
   - vat1
+  - var4
 
 isPermanent: false
